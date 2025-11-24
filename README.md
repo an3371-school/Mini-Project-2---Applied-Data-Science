@@ -19,8 +19,6 @@ This project predicts where *Dictyostelium discoideum* cells will aggregate by a
   - Gaussian Mixture Model (probabilistic clustering)
   - Poisson Hotspot detector (statistical baseline)
 
-- **Key Finding:** Only **4 consecutive frames** are needed to accurately predict aggregation centers
-
 
 ## Data
 
@@ -28,7 +26,7 @@ Data is confidential (provided by Janelia HHMI) and not included in this reposit
 
 ## Author
 
-ANIQA NAYIM
+ANIQA NAYIM (an3371)
 Applied Data Science Course
 [Columbia University]
 
